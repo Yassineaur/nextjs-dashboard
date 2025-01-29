@@ -1,1 +1,1 @@
-## Next.js App Router Course - Starter
+Dashboard for customer management using latest Nextjs features
